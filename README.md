@@ -1,1 +1,1 @@
-My first readme
+Updated this readme file through GitHub GUI
